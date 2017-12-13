@@ -1,0 +1,26 @@
+{
+  "name": "crud-mongodb-rest-api",
+  "version": "1.0.0",
+  "description": "API server with full CRUD operations and persistent store using MongoDb document databse and the Express framework.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "./node_modules/.bin/node-dev ./src/index.js"
+  },
+  "keywords": [
+    "Nodejs",
+    "Express",
+    "Mongodb"
+  ],
+  "author": "Harish Mathanan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "errorhandler": "1.5.0",
+    "express": "4.16.2",
+    "mongodb": "3.0.0-rc0",
+    "morgan": "1.9.0"
+  },
+  "devDependencies": {
+    "node-dev": "3.1.3"
+  }
+}
