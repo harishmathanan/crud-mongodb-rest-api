@@ -1,7 +1,7 @@
 {
   "name": "crud-mongodb-rest-api",
   "version": "1.0.0",
-  "description": "API server with full CRUD operations and persistent store using MongoDb document databse and the Express framework.",
+  "description": "API server with full CRUD operations and persistent store using MongoDb document database and the Express framework.",
   "main": "index.js",
   "scripts": {
     "dev": "./node_modules/.bin/node-dev ./src/index.js"
